@@ -1,0 +1,9 @@
+.venv
+__pycache__
+.vscode
+*.log
+*.json
+*.pid
+sample.py
+ProductSalesAndReturnsAnalysis.py
+ .gitignore
